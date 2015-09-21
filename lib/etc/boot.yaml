@@ -131,7 +131,7 @@ sources:
   shims-dev:             https://github.com/ghcjs/shims
   shims-dev-branch:      master
 
-  ghcjs-boot-dev:        https://github.com/ghcjs/ghcjs-boot
+  ghcjs-boot-dev:        https://github.com/ajnsit/ghcjs-boot
   ghcjs-boot-dev-branch: master
 
 
